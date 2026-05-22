@@ -6,6 +6,6 @@ Anggota:
 </ul>
 Pembagian Tugas:
 <ul>
-<li>Latihan (Baktiar)</li>
-<li>Latihan (Addin)</li>
+<li>soalStructClass (Baktiar)</li>
+<li>soalStructClass (Addin)</li>
 </ul>
