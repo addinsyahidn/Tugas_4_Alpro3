@@ -6,6 +6,6 @@ Anggota:
 </ul>
 Pembagian Tugas:
 <ul>
-<li>soalStructClass (Baktiar)</li>
-<li>soalStructClass (Addin)</li>
+<li>soalStructClass_Nim (Baktiar)</li>
+<li>soalStructClass_068 (Addin)</li>
 </ul>
